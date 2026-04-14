@@ -25,7 +25,7 @@ Jump / Double Jump : Space
 
 **TECHNICAL STACK**
 
-**Engine:** Unity 2022.3 LTS (or newer)
+**Engine:** Unity 2022.3 LTS
 
 **Scripting:** C# (Object-Oriented Programming)
 
